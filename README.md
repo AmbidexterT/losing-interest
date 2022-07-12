@@ -11,4 +11,4 @@ npm install
 npm run start
 ```
 
-Сервер на nest + MongoDb
+Server part on nest.js + MongoDb
